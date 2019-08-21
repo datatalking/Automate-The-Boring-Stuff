@@ -1,2 +1,2 @@
-# Automate The boring stuff
+# Automate The Boring Stuff
 Python Tutorial and learning
